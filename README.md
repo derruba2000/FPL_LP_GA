@@ -1,4 +1,4 @@
-# FPL_LP_GA
+# FPL Algorithms
 Playing Fantasy Premier League with Linear Programming and Genetic Algorithms
 
 This source code was tested on Google colab.
